@@ -46,6 +46,7 @@
 
 6. Если удалось передать более 8 бит, можно зашифровать текст.
 
+![Ввод сообщения для шифрования](https://github.com/iIyaPopov/bennett-protocol/blob/master/images/img6.png)
 
 
 ## Список литературы:
